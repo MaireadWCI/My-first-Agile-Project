@@ -7,4 +7,15 @@ assignees: ''
 
 ---
 
-As a **role I can **capability so that **received benifit
+# User Story
+As a **role I can **capability so that **received benefit
+
+# Acceptance Criteria 
+a.
+b.
+c.
+d.
+
+# Tasks
+- [ ] Task 1
+- [ ] Task 2
